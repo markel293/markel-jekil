@@ -13,7 +13,7 @@ Aquí tens tres serveis típics que ofereix una empresa de ciberseguretat estàn
 
 ## 1. Monitoratge de Xarxes
 
-![Monitoratge de Xarxes](/home/markel/Descargas/lavidaesbella.avif)
+![Monitoratge de Xarxes](/images/lavidaesbella.avif)
 
 **Descripció:**  
 Monitoritzem el tràfic de la teva xarxa per detectar intrusions i activitats sospitoses en temps real.  
@@ -25,7 +25,7 @@ Garantim alertes immediates i informes periòdics.
 
 ## 2. Anàlisi de Vulnerabilitats
 
-![Anàlisi de Vulnerabilitats](/home/markel/Descargas/nobita.avif)
+![Anàlisi de Vulnerabilitats](/images/nobita.avif)
 
 **Descripció:**  
 Realitzem auditories completes dels teus sistemes per identificar punts febles i recomanar millores.  
@@ -37,7 +37,7 @@ Inclou escanejos de servidors, aplicacions i dispositius.
 
 ## 3. Formació en Ciberseguretat
 
-![Formació en Ciberseguretat](/home/markel/Descargas/shrek.jpeg)
+![Formació en Ciberseguretat](/images/shrek.jpeg)
 
 **Descripció:**  
 Oferim cursos i tallers per a empleats i directius, incrementant la consciència i prevenció de riscos informàtics.  
