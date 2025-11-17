@@ -4,15 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Sobre mi
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Bones! Aquesta és la pàgina *About* del meu lloc Jekil. Aquí tens alguns exemples de la sintaxi **bàsica** de Markdown.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## 1. Text en negreta i cursiva
+Aquest text és en **boneees** i aquest és en *bol*.
 
+## 2. Llista bàsica
+- Administració de sistemes  
+- Xarxes  
+- Ciberseguretat  
+- Programació  
 
-[jekyll-organization]: https://github.com/jekyll
+## 3. Enllaç
+Pots visitar questa web:  
+[La web](https://matrix.org/)
+
+## 4. Imatge
+![Imatge d'exemple](https://peluchilandia.es/4381-large_default/peluches-epi-y-blas.jpg)
+
+## 5. Títol i subtítol
+Aquest apartat mostra l'ús de `#` i `##` per crear títols.
