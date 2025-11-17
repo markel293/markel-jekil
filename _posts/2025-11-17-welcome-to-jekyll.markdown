@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title: "Index Avançat "
-date: 2025-11-17 18:30:00 +0100
-categories: blog
+permalink: /sintaxi-avançat/
 ---
 
 # Markdown Avançat: 5 Funcionalitats Reals
