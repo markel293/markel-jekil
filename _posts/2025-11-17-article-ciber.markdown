@@ -3,6 +3,7 @@ layout: post
 title: "Bones pràctiques en ciberseguretat per a usuaris"
 date: 2025-11-17
 categories: blog
+permalink: /blog-ciber/
 ---
 
 # Bones pràctiques en ciberseguretat per a usuaris
