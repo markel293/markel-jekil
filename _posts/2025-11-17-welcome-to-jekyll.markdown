@@ -1,29 +1,51 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2025-11-17 17:32:16 +0100
-categories: jekyll update
+title: "Index Avançat "
+date: 2025-11-17 18:30:00 +0100
+categories: blog
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+# Markdown Avançat: 5 Funcionalitats Reals
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## 1. Taula (Extended Syntax)
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+| Servei                 | Estat     | Notes                       |
+|------------------------|-----------|------------------------------|
+| Monitoratge SIEM       | Actiu     | Integració amb Syslog       |
+| Hardening de servidors | En procés | Revisió amb CIS Benchmark   |
+| Anàlisi de vulnerabilitats | Programat | Escaneig setmanal           |
 
-Jekyll also offers powerful support for code snippets:
+## 2. Secció desplegable amb opcions
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<details>
+  <summary><strong>Prem aquí per veure els personatges</strong></summary>
+  - **Jekil**: Científic misteriós amb experiments secrets.  
+  - **Epi**: Personatge divertit i bromista.  
+  - **Blas**: Soci més seriós, sovint pacificador.
+</details>
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## 3. Notes a peu de pàgina (Footnotes)
+
+En ciberseguretat, el *patching* regular és imprescindible[^1].
+
+[^1]: Aplicar actualitzacions crítiques redueix fins a un 80% els vectors d'explotació coneguts.
+
+## 4. Llistes de Tasques (Task Lists)
+
+Això és una checklist real utilitzada en una auditoria:
+
+- [x] Inventari d'actius  
+- [x] Escaneig de vulnerabilitats  
+- [ ] Revisió de logs  
+- [ ] Redacció de l'informe final  
+
+## 5. Tachado i Definition List
+
+~~Aquesta configuració estava malament.~~
+
+Firewall  
+: Dispositiu o software que controla el tràfic de xarxa.
+
+Endpoint  
+: Dispositiu final com portàtils o telèfons que poden ser vulnerats.
