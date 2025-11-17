@@ -19,7 +19,7 @@ Aquí tens tres serveis típics que ofereix una empresa de ciberseguretat estàn
 Monitoritzem el tràfic de la teva xarxa per detectar intrusions i activitats sospitoses en temps real.  
 Garantim alertes immediates i informes periòdics.
 
-**Més informació:** [Veure servei](https://www.example.com/monitoratge)
+**Més informació:** [Veure servei](https://www.sans.org/cyber-security-courses/)
 
 ---
 
@@ -31,7 +31,7 @@ Garantim alertes immediates i informes periòdics.
 Realitzem auditories completes dels teus sistemes per identificar punts febles i recomanar millores.  
 Inclou escanejos de servidors, aplicacions i dispositius.
 
-**Més informació:** [Veure servei](https://www.example.com/vulnerabilitats)
+**Més informació:** [Veure servei](https://www.tenable.com/products/nessus)
 
 ---
 
@@ -43,4 +43,4 @@ Inclou escanejos de servidors, aplicacions i dispositius.
 Oferim cursos i tallers per a empleats i directius, incrementant la consciència i prevenció de riscos informàtics.  
 Inclou simulacions d’atacs i bones pràctiques.
 
-**Més informació:** [Veure servei](https://www.example.com/formacio)
+**Més informació:** [Veure servei](https://www.coursera.org/browse/information-technology/cybersecurity)
