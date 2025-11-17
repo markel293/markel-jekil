@@ -24,5 +24,5 @@ Pots visitar questa web:
 ## 4. Imatge
 ![Imatge d'exemple](https://peluchilandia.es/4381-large_default/peluches-epi-y-blas.jpg)
 
-## 5. Títol i subtítol
-Aquest apartat mostra l'ús de `#` i `##` per crear títols.
+## 5. Cita (blockquote)
+> Aquesta és una cita feta amb la sintaxi bàsica de Markdown.
