@@ -34,6 +34,6 @@ Aquest article ofereix consells senzills però efectius per a tots els usuaris.
 
 ## Imatge relacionada
 
-![Seguretat digital](/images/misael.jpg)
+![Seguretat digital](/images/doncangrejo.webp)
 
 Amb aquestes pràctiques senzilles, qualsevol usuari pot millorar significativament la seva seguretat digital.
