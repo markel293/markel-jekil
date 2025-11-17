@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Markdown avançat complet"
-date: 2025-02-17 12:00:00 +0100
+title: "Index Avançat "
+date: 2025-11-17 18:30:00 +0100
 categories: blog
 ---
 
@@ -15,11 +15,15 @@ categories: blog
 | Hardening de servidors | En procés | Revisió amb CIS Benchmark   |
 | Anàlisi de vulnerabilitats | Programat | Escaneig setmanal           |
 
-## 2. Bloc de codi amb ressaltat
+## 2. Secció desplegable amb opcions
 
-#!/bin/bash
-echo "Això és un script de ciberseguretat!"
-nmap -sV 192.168.1.1
+<details>
+  <summary><strong>Prem aquí per veure els personatges</strong></summary>
+  - **Jekil**: Científic misteriós amb experiments secrets.  
+  - **Epi**: Personatge divertit i bromista.  
+  - **Blas**: Soci més seriós, sovint pacificador.
+</details>
+
 
 ## 3. Notes a peu de pàgina (Footnotes)
 
